@@ -304,7 +304,7 @@ d.speed = 255;
 
 n.retreat_duration = 2;
 n.target_duration = 2.1;
-n.last_turn = Orientation::left;
+n.last_turn = Orientation::right;
 
 generate navigate1:pop() to n;
 
